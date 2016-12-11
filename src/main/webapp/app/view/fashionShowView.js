@@ -7,7 +7,7 @@ Ext.define('fashionJog.view.fashionShowView',{
 		listeners:{
 			show : function(){
 				setTimeout(function(){
-					jQuery(document).ready(function () {
+					//jQuery(document).ready(function () {
 						$('.runway-module .fa-arrow-left').click(function(){
 							var item=$('.runway_carousel_items');
 							var move = item.position().left;
@@ -26,7 +26,7 @@ Ext.define('fashionJog.view.fashionShowView',{
 								item.css('-webkit-transform', 'translate3d('+move+'px,0px,0.001px)');
 							}
 						});
-					});
+					//});
 				},500);
 				
 			}
