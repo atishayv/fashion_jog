@@ -57,7 +57,7 @@ Ext.define('fashionJog.view.fashionShowView',{
 								'<video style="display: none;">'+//<!--[if IE 9]><![endif]-->
 								'<source srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F10%2F01%2Flouis-vuitton-pfw-rtw-spring-2015-runway-17.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=" media="(min-width: 760px)">'+
 								'</video><!--[if IE 9]><![endif]-->'+
-								'<img srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F10%2F01%2Flouis-vuitton-pfw-rtw-spring-2015-runway-17.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
+								'<img srcset="https://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F10%2F01%2Flouis-vuitton-pfw-rtw-spring-2015-runway-17.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
 							'</picture>'+
 
 							'<h3 class="runway-carousel--item-title">Louis Vuitton</h3>'+
@@ -71,7 +71,7 @@ Ext.define('fashionJog.view.fashionShowView',{
 								'<video style="display: none;">'+//<!--[if IE 9]><![endif]-->
 								'<source srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F18%2Fprada-rtw-ss2015-runway-24.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=" media="(min-width: 760px)">'+
 								'</video>//<!--[if IE 9]><![endif]-->'+
-								'<img srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F18%2Fprada-rtw-ss2015-runway-24.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
+								'<img srcset="https://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F18%2Fprada-rtw-ss2015-runway-24.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
 							'</picture>'+
 
 							'<h3 class="runway-carousel--item-title">Prada</h3>'+
@@ -85,10 +85,10 @@ Ext.define('fashionJog.view.fashionShowView',{
 								'<video style="display: none;">'+//<!--[if IE 9]><![endif]-->
 								'<source srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F28%2Fceline-pfw-rtw-spring-2015-runway-281.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=" media="(min-width: 760px)">'+
 								'</video>//<!--[if IE 9]><![endif]-->'+
-								'<img srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F28%2Fceline-pfw-rtw-spring-2015-runway-281.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
+								'<img srcset="https://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F28%2Fceline-pfw-rtw-spring-2015-runway-281.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
 							'</picture>'+
 
-							'<h3 class="runway-carousel--item-title">Céline</h3>'+
+							'<h3 class="runway-carousel--item-title">CÃ©line</h3>'+
 						'</a>'+
 
 										'</li>'+
@@ -99,7 +99,7 @@ Ext.define('fashionJog.view.fashionShowView',{
 								'<video style="display: none;">'+//<!--[if IE 9]><![endif]-->
 								'<source srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09%2Faltuzarra-rtw-ss2015-runway-011.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=" media="(min-width: 760px)">'+
 								'</video>//<!--[if IE 9]><![endif]-->'+
-								'<img srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09%2Faltuzarra-rtw-ss2015-runway-011.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
+								'<img srcset="https://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09%2Faltuzarra-rtw-ss2015-runway-011.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
 							'</picture>'+
 
 							'<h3 class="runway-carousel--item-title">Altuzarra</h3>'+
@@ -113,7 +113,7 @@ Ext.define('fashionJog.view.fashionShowView',{
 								'<video style="display: none;">'+//<!--[if IE 9]><![endif]-->
 								'<source srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F15%2Ferdem-rtw-spring-2015-runway-27.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=" media="(min-width: 760px)">'+
 								'</video>//<!--[if IE 9]><![endif]-->'+
-								'<img srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F15%2Ferdem-rtw-spring-2015-runway-27.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
+								'<img srcset="https://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F15%2Ferdem-rtw-spring-2015-runway-27.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
 							'</picture>'+
 
 							'<h3 class="runway-carousel--item-title">Erdem</h3>'+
@@ -127,7 +127,7 @@ Ext.define('fashionJog.view.fashionShowView',{
 								'<video style="display: none;">'+//<!--[if IE 9]><![endif]-->
 								'<source srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F20%2Fbottega-veneta-spring-2015-runway-30.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=" media="(min-width: 760px)">'+
 								'</video>//<!--[if IE 9]><![endif]-->'+
-								'<img srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F20%2Fbottega-veneta-spring-2015-runway-30.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
+								'<img srcset="https://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F20%2Fbottega-veneta-spring-2015-runway-30.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
 							'</picture>'+
 
 							'<h3 class="runway-carousel--item-title">Bottega Veneta</h3>'+
@@ -141,7 +141,7 @@ Ext.define('fashionJog.view.fashionShowView',{
 								'<video style="display: none;">'+//<!--[if IE 9]><![endif]-->
 								'<source srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F09%2Frodarte-rtw-ss2015-runway-35.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=" media="(min-width: 760px)">'+
 								'</video>//<!--[if IE 9]><![endif]-->'+
-								'<img srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F09%2Frodarte-rtw-ss2015-runway-35.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
+								'<img srcset="https://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F09%2Frodarte-rtw-ss2015-runway-35.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
 							'</picture>'+
 
 							'<h3 class="runway-carousel--item-title">Rodarte</h3>'+
@@ -155,7 +155,7 @@ Ext.define('fashionJog.view.fashionShowView',{
 								'<video style="display: none;">'+//<!--[if IE 9]><![endif]-->
 								'<source srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F30%2Fvalentino-pfw-rtw-spring-2015-runway-23.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=" media="(min-width: 760px)">'+
 								'</video>//<!--[if IE 9]><![endif]-->'+
-								'<img srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F30%2Fvalentino-pfw-rtw-spring-2015-runway-23.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
+								'<img srcset="https://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F30%2Fvalentino-pfw-rtw-spring-2015-runway-23.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
 							'</picture>'+
 
 							'<h3 class="runway-carousel--item-title">Valentino</h3>'+
@@ -169,7 +169,7 @@ Ext.define('fashionJog.view.fashionShowView',{
 								'<video style="display: none;">'+//<!--[if IE 9]><![endif]-->
 								'<source srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F28%2Fgivenchy-spring-2015-runway-01.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=" media="(min-width: 760px)">'+
 								'</video>//<!--[if IE 9]><![endif]-->'+
-								'<img srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F28%2Fgivenchy-spring-2015-runway-01.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
+								'<img srcset="https://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F28%2Fgivenchy-spring-2015-runway-01.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
 							'</picture>'+
 
 							'<h3 class="runway-carousel--item-title">Givenchy</h3>'+
@@ -183,7 +183,7 @@ Ext.define('fashionJog.view.fashionShowView',{
 								'<video style="display: none;">'+//<!--[if IE 9]><![endif]-->
 								'<source srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F10%2Fmichael-kors-rtw-spring-2015-161.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=" media="(min-width: 760px)">'+
 								'</video>//<!--[if IE 9]><![endif]-->'+
-								'<img srcset="http://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F10%2Fmichael-kors-rtw-spring-2015-161.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
+								'<img srcset="https://www.vogue.com/aq_resizer/?url=http%3A%2F%2Fwww.vogue.com%2Fwp-content%2Fuploads%2F2014%2F09_1%2F10%2Fmichael-kors-rtw-spring-2015-161.jpg&amp;width=280&amp;height=480&amp;crop=1&amp;single=1&amp;upscale=">'+
 							'</picture>'+
 
 							'<h3 class="runway-carousel--item-title">Michael Kors</h3>'+
@@ -209,7 +209,7 @@ Ext.define('fashionJog.view.fashionShowView',{
 	                    '<article class="news-article large">'+
 	                '<a target="_blank" href="http://www.covertrends.de/fashion/zuerich-fashion-days/9299">'+
 	                    '<img src="images/fashion-show/news1.jpg" alt="">'+
-	                    '<div class="article-title">Zürich Fashion Days 2014: MAX MARA on the Catwalk                    </div>'+
+	                    '<div class="article-title">ZÃ¼rich Fashion Days 2014: MAX MARA on the Catwalk                    </div>'+
 	                '</a>'+
 	            '</article>'+
 	                    '<article class="news-article small">'+
@@ -254,7 +254,7 @@ Ext.define('fashionJog.view.fashionShowView',{
 	                                '<article class="news-article small">'+
 	                        '<a target="_blank" href="http://www.modaturkiye.com/haber/asli-guler-2015-ilkbahar-yaz-koleksiyonu-mbfwi">'+
 	                            '<img src="images/fashion-show/news8.jpg" alt="">'+
-	                            '<div class="article-title">Asl Güler 2015 lkbahar-Yaz Defilesi, MBFWI                            </div>'+
+	                            '<div class="article-title">Asl GÃ¼ler 2015 lkbahar-Yaz Defilesi, MBFWI                            </div>'+
 	                        '</a>'+
 	                    '</article>'+
 	                                '<article class="news-article small">'+
